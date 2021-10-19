@@ -1,0 +1,35 @@
+﻿  buffer.cpp
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\buffer.h(11,2): warning C4091: 'typedef ' : ignoré à gauche de 'GE' quand aucune variable n'est déclarée
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\buffer.h(16,2): warning C4091: 'typedef ' : ignoré à gauche de 'GE_List' quand aucune variable n'est déclarée
+  geometry.cpp
+  main.cpp
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\buffer.h(11,2): warning C4091: 'typedef ' : ignoré à gauche de 'GE' quand aucune variable n'est déclarée
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\buffer.h(16,2): warning C4091: 'typedef ' : ignoré à gauche de 'GE_List' quand aucune variable n'est déclarée
+  objectRenderer.cpp
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(243,19): warning C4244: '=' : conversion de 'const int' en 'float', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(244,19): warning C4244: '=' : conversion de 'const int' en 'float', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(296,91): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(297,91): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(298,40): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(299,40): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(301,52): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(302,52): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(303,31): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(304,31): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(433,32): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(434,22): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(440,93): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(441,62): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(442,55): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\objectRenderer.cpp(443,55): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  renderer.cpp
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\renderer.cpp(39,66): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\renderer.cpp(40,66): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\renderer.cpp(46,40): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\renderer.cpp(51,39): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\renderer.cpp(56,40): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\renderer.cpp(61,39): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Génération de code en cours...
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\buffer.cpp(19): warning C4172: retourne l'adresse d'une variable locale ou : s temporaire
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\map_SDL\buffer.cpp(40): warning C4172: retourne l'adresse d'une variable locale ou : s temporaire
+  map_SDL.vcxproj -> C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours_Bachelor\moteur_sdl\x64\Debug\map_SDL.exe
